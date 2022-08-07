@@ -1,0 +1,28 @@
+Data Types in GOLAND
+--
+
+Numberic
+- int
+- float
+
+Booleand
+- true
+- false
+
+String
+
+Derived
+- pointer
+- array
+- structure
+- map
+- interface 
+# # # # # # # # # # # # # # # # # # # # # # # # #
+
+Operators
+--
+Arithmetic: + - * /  %
+
+Relational > <  <= <= == !=
+
+Logical && || !

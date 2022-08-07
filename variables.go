@@ -17,4 +17,9 @@ func main() {
 
 	f.Println(variableA, variableB)
 
+	//String in golang is between "
+	var name string = "First String"
+
+	//get the length of the string
+	f.Println(len(name))
 }
